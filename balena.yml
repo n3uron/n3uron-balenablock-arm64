@@ -1,6 +1,6 @@
 name: N3uron Industrial IoT Platform
 type: sw.block
-version: 1.22.0
+version: 1.22.1
 
 description: >-
   N3uron is an Industrial Edge Platform for DataOps that streamlines the flow of data between industrial devices
